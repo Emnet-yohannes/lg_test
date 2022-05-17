@@ -5,9 +5,9 @@
 	"type": "web",
 	"main": "index.html",
 	"title": "FrontierX",
-	"icon": "icon.png",
-	"miniicon": "icon-mini.png",
-	"largeIcon": "icon-large.png",
+	"icon": "small.png",
+	"miniicon": "mini.png",
+	"largeIcon": "large.png",
 	"splashBackground": "splash-bg.png",
 	"uiRevision": 2
 }
